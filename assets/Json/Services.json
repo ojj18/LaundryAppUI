@@ -1,0 +1,34 @@
+[
+    {
+        "image":"assets/images/laundry.png",
+        "name":"Wash & Fold",
+        "name_ar":"يغسل ويثنى",
+        "time_ar":"الحد الأدنى 12 ساعة",
+        "time":"Min 12 Hours"
+    },
+    {
+        "image":"assets/images/clothing-iron.png",
+        "name":"Wash & Iron",
+        "name_ar":"غسيل ومكواة",
+        "time_ar":"الحد الأدنى 6 ساعات",
+        "time":"Min 6 Hours"
+
+    },
+    {
+        "image":"assets/images/wearing.png",
+        "name":"Dry Clean",
+        "name_ar":"تنظيف جاف'",
+        "time_ar":"تنظيف جاف'",
+        "time":"Min 24 Hours"
+
+    },
+    {
+        "image":"assets/images/laundry.png",
+        "name":"Wash & Fold",
+        "name_ar":"يغسل ويثنى",
+        "time_ar":"الحد الأدنى 12 ساعة",
+        "time":"Min 12 Hours"
+
+    }
+    
+]

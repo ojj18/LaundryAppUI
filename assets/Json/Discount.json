@@ -1,0 +1,42 @@
+[
+    {
+        "name":"New User ? First wash Free !!",
+        "label":"Oh ! You are user ? Order & get your first\nYou need ...",
+        "name_ar":"مستخدم جديد ؟ أول غسيل مجاني !!",
+        "label_ar":"أوه! انت مستخدم؟ اطلب واحصل على أول ما تحتاجه ...",
+        "freeBtn_ar":"جديد مجاني 3",
+        "freeBtn":"NEW FREE3"
+    },
+    {
+        "name":"Upto 20% Discount on Credit Card Payment",
+        "label":"Your order No.1264387 is confirmed now.Pick\nup guy..",
+        "name_ar":"خصم حتى 20٪ على الدفع ببطاقة الائتمان",
+        "label_ar":"تم تأكيد طلبك رقم 1264387 الآن.",
+        "freeBtn_ar":"الائتمان 20",
+        "freeBtn":"CREDIT20"
+    },
+    {
+        "name":"Summer Offer: Pay for wash & get",
+        "label":"Your order No.1264387 is confirmed now.Pick\nup guy..",
+        "name_ar":"عرض الصيف: ادفع مقابل الغسيل واحصل على",
+        "label_ar":"تم تأكيد طلبك رقم 1264387 الآن.",
+        "freeBtn_ar":"فريون",
+        "freeBtn":"FREEIRON"
+    },
+    {
+        "name":"New User ? First wash Free !!",
+        "label":"Oh ! You are user ? Order & get your first\n You need ...",
+        "name_ar":"مستخدم جديد ؟ أول غسيل مجاني !!",
+        "label_ar":"أوه! انت مستخدم؟ اطلب واحصل على أول ما تحتاجه ...",
+        "freeBtn_ar":"جديد مجاني 3",
+        "freeBtn":"NEW FREE3"
+    },
+    {
+        "name":"Summer Offer: Pay for wash & get",
+        "label":"Your order No.1264387 is confirmed now.Pick\nup guy..",
+        "name_ar":"عرض الصيف: ادفع مقابل الغسيل واحصل على",
+        "label_ar":"تم تأكيد طلبك رقم 1264387 الآن.",
+        "freeBtn_ar":"فريون",
+        "freeBtn":"FREEIRON"
+    }
+]

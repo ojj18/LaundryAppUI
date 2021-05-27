@@ -1,0 +1,48 @@
+[
+    {
+        "name":"189425",
+        "label":"Order Confirmed",
+        "label_ar":"تم تاكيد الطلب",
+        "image":"assets/images/notes.png",
+        "price":"256",
+        "time":"25 June 2018",
+        "time_ar":"25 يونيو 2018"
+    },
+    {
+        "name":"237643",
+        "label":"Order Picked up",
+        "label_ar":"تم استلام الطلب",
+        "image":"assets/images/mover-truck.png",
+        "price":"256",
+        "time":"20 June 2018",
+        "time_ar":"20 2018 يونيو"  
+    },
+    {
+        "name":"289456",
+        "label":"Order Inprocess",
+        "label_ar":"طلب أمر",
+        "image":"assets/images/laundry.png",
+        "price":"256",
+        "time":"12 June 2018",
+        "time_ar":"12 2018 يونيو"     
+    },
+    {
+       
+        "name":"2654327",
+        "label":"Order Dispatched",
+        "label_ar":"تم إرسال الطلب",
+        "image":"assets/images/delivery.png",
+        "price":"256",
+        "time":"30 June 2018",
+        "time_ar":"30 2018 يونيو"    
+    },
+    {
+        "name":"234098",
+        "label":"Order Delivered",
+        "label_ar":"أجل تسليم",
+        "image":"assets/images/home-run.png",
+        "price":"256",
+        "time":"28 June 2018",
+        "time_ar":"28 2018 يونيو"    
+    }
+]

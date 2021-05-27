@@ -1,0 +1,18 @@
+[
+    {
+        "name":"Flat 50 % off on\nFirst Order",
+        "name_ar":"خصم 50٪ على فيرست أوردي",
+        "image":"assets/images/wearing.png"
+    },
+    {
+        "name":"Flat 30 % off on\nFirst Order",
+        "name_ar":"خصم 30٪ على طلب الأطفال",
+        "image":"assets/images/laundry.png"
+    },
+    {
+        "name":"Flat 10 % off on\nFirst Order",
+        "name_ar":"خصم 10٪ ثابت على الطلب المميز",
+        "image":"assets/images/laundry.png"
+    }
+
+]

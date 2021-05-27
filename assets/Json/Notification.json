@@ -1,0 +1,45 @@
+[
+    {
+        "name":"Order Confirmed",
+        "name_ar":"تم تاكيد الطلب",
+        "label_ar":"تم تأكيد طلبك رقم 1264387 الآن.",
+        "label":"Your order No.1264387 is\nconfirmed now.Pick up guy..",
+        "image":"assets/images/notes.png",
+        "time":"12.00\npm"
+    },
+    {
+        "name":"Order Ready to Delivery",
+        "name_ar":"الطلب جاهز للتسليم",
+        "label_ar":"تم تأكيد طلبك رقم 6548752 الآن.",
+        "label":"Your order No.6548752 is\nconfirmed now.Pick up guy..",
+        "image":"assets/images/mover-truck.png",
+        "time":"12.00\npm"
+    },
+    {
+        "name":"Order is under proceed",
+        "name_ar":"الطلب قيد التنفيذ",
+        "label_ar":"طلبك رقم 2654716 جاهز للإرسال الآن ..",
+        "label":"Your order No.2654716 is\nready to dispatch now..",
+        "image":"assets/images/laundry.png",
+        "time":"12.00\npm"
+    },
+    {
+        "name":"Order Delivered",
+        "name_ar":"أجل تسليم",
+        "label_ar":"تم تأكيد طلبك رقم 131313 الآن.",
+        "label":"Your order No.131313 is\nconfirmed now.Pick up guy..",
+        "image":"assets/images/delivery.png",
+        "price":"256",
+        "time":"12.00\npm"
+    },
+    {
+        "name":"Order Ready to Delivery",
+        "name_ar":"الطلب جاهز للتسليم",
+        "label_ar":"طلبك رقم 231232 جاهز للإرسال الآن ..",
+        "label":"Your order No.231232 is\nready to dispatch now..",
+        "image":"assets/images/home-run.png",
+        "price":"256",
+        "time":"12.00\npm"
+    }
+
+]
